@@ -25,3 +25,4 @@ If the executable files do not open, it may be due to Windows antivirus. You mus
  - SoftEther VPN (https://www.softether.org)
  - ProcessHacker (https://processhacker.sourceforge.io)
  - Hide.me (https://hide.me/en/)
+ - Admin Restriction Bypass (https://github.com/EbolaMan-YT/UAC-Bypass)
