@@ -1,6 +1,6 @@
 # Nico Multitool
 Welcome! You are on the Nico Multitool download page.
-This MultiTool includes functions designed to be used on a school PC.
+This MultiTool includes a variety of functions that can be useful.
 
 For educational purposes only.
 
