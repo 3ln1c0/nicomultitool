@@ -18,6 +18,8 @@ Functions:
 1. Downoload the .zip file in the releases page. 
 2. Unzip the multitool.zip file
 3. Run !main.bat (Ignore other files)
+
+If the executable files do not open, it may be due to Windows antivirus. You must run the .exe files in their respective folders to be able to run them from the Multitool. You can also turn off alerts.
   
 # Credits
  - SoftEther VPN (https://www.softether.org)
