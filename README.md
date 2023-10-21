@@ -5,13 +5,22 @@ This MultiTool includes a variety of functions that can be useful.
 For educational purposes only.
 
 Functions: 
-  - Admin password breaker using brute force - To try to gain access to administrator permissions.
-  - ProcessHacker - Feature-rich alternative to task manager (May work if your task manager is locked.)
-  - Fake Windows Bug - It just makes your Windows look like it's buggy, but it doesn't do anything harmful to your computer.
-  - VPN (SoftEther) - Open a VPN. It can be useful to bypass locked pages.
-  - Open hideme Proxy - Opens a proxy (hide.me) that can be used to bypass locked pages.
-  - Fake Virus - Executes a ransom message, as if your PC had been infected by Ransomware, but in reality it is fake.
-![image](https://github.com/3ln1c0/nicomultitool/assets/79100240/27c982a5-2551-4b9b-ae35-b67e00da9beb)
+1 Help - Open the help page
+2 Open ProcessHacker - Feature-rich alternative to task manager (May work if your task manager is locked.) 
+3 Admin Bypass - Methods to try to get administrator permissions if you don't have them.
+	- BruteForce: Try to brute force the administrator password. It can take a long time on slow computers.
+	- FakeBug: Opens a window asking for administrator permissions. The window never closes, so it seems like a bug. When the administrator enters the password, a CMD will 	open with administrator permissions that you can use to give yourself administrator status.  Make sure you close any CMD windows you have before opening it.
+4 Fakes - Fake viruses, bugs and other things.
+	- Fake bug: It makes it look like Windows is buggy, but in reality it is not. (This simply kills explorer.exe)
+	- Fake Ransomware: A message appears as if Windows has been infected with ransomware, but in reality it is false and is not harmful to the computer.
+
+5 Internet - Options to bypass blocked web pages or other things.
+	- Open SoftEther VPN: Open SoftEther VPN.
+	- Open hide.me Proxy: Opens a proxy that can be used to access blocked pages.
+6 Credits - Open the credits
+7 Exit - Exit the multitool.
+
+![Uploading image.png…]()
 
 
 # How to downoload?
