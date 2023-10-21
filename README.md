@@ -20,8 +20,7 @@ Functions:
 6 Credits - Open the credits
 7 Exit - Exit the multitool.
 
-![Uploading image.png…]()
-
+![image](https://github.com/3ln1c0/nicomultitool/assets/79100240/8af3f0c8-36f7-4b71-8a42-60271a65a084)
 
 # How to downoload?
 1. Downoload the .zip file in the releases page. 
